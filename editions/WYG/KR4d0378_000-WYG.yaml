@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0378/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0378_WYG_000-1a, image: WYG1186/WYG1186-0737a.png}
+body:
+  text: 雲泉詩别集類三宋提要臣等謹案雲泉詩一巻宋薛嵎撰嵎字仲止一字賔日永嘉人寳祐四年進士官長溪簿宋承五代之後其詩數變一變而西崑再變而元祐三變而江西江西一派由北宋以逮南宋其行最久久而弊生於是永嘉一派以晚唐體矯之而永嘉四靈出焉然四靈名為晚唐其所宗寔止姚合一家所謂武功體者是也其法以新切為宗而寫景細瑣邊幅太狭遂為宋末江湖之濫觴葉適以鄉曲之故初力推之久而亦覺其偏始稍異論焉嵎之所作皆出入四靈之間不免局於門户然尚永嘉之初派非永嘉之末派録而存之亦足備一格也乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:f13903fb02373ca4ded0e32c0458944adfa4c37f6bad244770f09fc6cccb51b8
+metadata:
+  title: 雲泉詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:06:45.688876'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0378/KR4d0378_000.txt
+hash: sha256:aa61ff43fec88df7cde549ba519ae6ad936c61d578d42edc18dc16fb35356774

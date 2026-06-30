@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4d0378/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0378/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雲泉詩
+  date: '2015-08-25 00:06:45.688876'
+  source:
+    repository: kanripo
+    path: KR4d0378
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0378_000-WYG.yaml, hash: 'sha256:aa61ff43fec88df7cde549ba519ae6ad936c61d578d42edc18dc16fb35356774'}
+  - {seq: 1, filename: KR4d0378_001-WYG.yaml, hash: 'sha256:83e0585ab231244084922af845602e42d525cbe4688b5d7ada2d57def4430e3f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0378_000-WYG.markers.yaml, hash: 'sha256:1ee4870d3de0c97027ed0a25ec99aa7647692ce8bb653d54f5745aacd66af703'}
+  - {seq: 1, role: markers, filename: assets/KR4d0378_001-WYG.markers.yaml, hash: 'sha256:f99299e3963fd093e86020dd3f2e9be6f07d53013273a2c310286a6b74a3cab6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0378_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 250
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0378_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 12419
+  label: 雲泉詩
+  type: section
+  level: 1
+hash: sha256:bd081343fdb969e23ec3193d48e88bf59530b029d138c63c6e73c383760f8061
