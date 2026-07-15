@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4d0378/v1
 canonical_location: https://kanripo.org/bkk/KR4d0378/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雲泉詩
   date: '2015-08-25 00:06:45.688876'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4d0378_000.yaml, hash: 'sha256:bc4645f7d2e2b1b30c99ba6936c3b66006767f918d609d2f94cf52d4c694da41'}
-  - {seq: 1, filename: KR4d0378_001.yaml, hash: 'sha256:6962c8b38fa7883440ca339267faa957ddb081ccc3c74c9e59f97f68f3259307'}
+  - {seq: 0, filename: KR4d0378_000.yaml, hash: 'sha256:e5a1753ec32e6a3875fd66cc69ef0dca191644a3cac974a9984f591caf71efd7'}
+  - {seq: 1, filename: KR4d0378_001.yaml, hash: 'sha256:c8326b6225de66958eca9a987e5b979673f32f9a0c2819fd4fbc050046508059'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0378_000.markers.yaml, hash: 'sha256:57e32ec10b2ba64b5f75240a7628bb3495ab760f5360f68d36b73e3e9a4ed8a8'}
-  - {seq: 1, role: markers, filename: assets/KR4d0378_001.markers.yaml, hash: 'sha256:1b879e0c6b7c634b38d7fe25699c8acc8a263856b202c83b2608105446e9e234'}
+  - {seq: 0, role: markers, filename: assets/KR4d0378_000.markers.yaml, hash: 'sha256:cbd5431f3e9cc26ebffdd7490467d3e1ab5bdfb89419c7d8458ed5a65b20c78e'}
+  - {seq: 1, role: markers, filename: assets/KR4d0378_001.markers.yaml, hash: 'sha256:380f39efb065fd9946b17e353d4f27f34a5e47670b8e26fb3b190fc76787c74e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 雲泉詩
   type: section
   level: 1
-hash: sha256:f3d3ad2625c8cbc8bdd4fb9da7ea5cead765d4774bb65b6ba417a2618656f6fd
+hash: sha256:04a7981fe5a49703d3161fa9c49f1118caa803f25ebdb1a4ced95c7d44f7f62d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
