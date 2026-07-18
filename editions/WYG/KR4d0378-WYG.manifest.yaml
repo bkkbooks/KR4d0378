@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0378_000-WYG.yaml, hash: 'sha256:aa61ff43fec88df7cde549ba519ae6ad936c61d578d42edc18dc16fb35356774'}
   - {seq: 1, filename: KR4d0378_001-WYG.yaml, hash: 'sha256:83e0585ab231244084922af845602e42d525cbe4688b5d7ada2d57def4430e3f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0378_000-WYG.markers.yaml, hash: 'sha256:1ee4870d3de0c97027ed0a25ec99aa7647692ce8bb653d54f5745aacd66af703'}
-  - {seq: 1, role: markers, filename: assets/KR4d0378_001-WYG.markers.yaml, hash: 'sha256:f99299e3963fd093e86020dd3f2e9be6f07d53013273a2c310286a6b74a3cab6'}
+  - {seq: 0, role: markers, filename: assets/KR4d0378_000-WYG.markers.yaml, hash: 'sha256:3da59686c5ed9adb79493c203f4df3cd2b81b23194e119de1799bfd2c34f61da'}
+  - {seq: 1, role: markers, filename: assets/KR4d0378_001-WYG.markers.yaml, hash: 'sha256:f25f876c809a7916bde77050a5d688ac687948d0238e0027845fe7fb498f61b6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 雲泉詩
   type: section
   level: 1
-hash: sha256:bd081343fdb969e23ec3193d48e88bf59530b029d138c63c6e73c383760f8061
+hash: sha256:a65fad2108f98c99cf2d8c00299c24c18fff995eeb6950c5cace3a3c87062a9f

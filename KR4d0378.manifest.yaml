@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0378_000.yaml, hash: 'sha256:e5a1753ec32e6a3875fd66cc69ef0dca191644a3cac974a9984f591caf71efd7'}
   - {seq: 1, filename: KR4d0378_001.yaml, hash: 'sha256:c8326b6225de66958eca9a987e5b979673f32f9a0c2819fd4fbc050046508059'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0378_000.markers.yaml, hash: 'sha256:cbd5431f3e9cc26ebffdd7490467d3e1ab5bdfb89419c7d8458ed5a65b20c78e'}
-  - {seq: 1, role: markers, filename: assets/KR4d0378_001.markers.yaml, hash: 'sha256:380f39efb065fd9946b17e353d4f27f34a5e47670b8e26fb3b190fc76787c74e'}
+  - {seq: 0, role: markers, filename: assets/KR4d0378_000.markers.yaml, hash: 'sha256:eb49bbf58b017922887bfd4c86c48f11e38070d547efca8cb1fbcc5ca96c9040'}
+  - {seq: 1, role: markers, filename: assets/KR4d0378_001.markers.yaml, hash: 'sha256:f298fe77a5a6278661366bb50728a25a4bd79da8ffad92ea8acf0770cc527539'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 雲泉詩
   type: section
   level: 1
-hash: sha256:04a7981fe5a49703d3161fa9c49f1118caa803f25ebdb1a4ced95c7d44f7f62d
+hash: sha256:8fd80875f3b6fa83e92e8fe590193440553ddc376671c6012b8dbb5e2e832b3c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
